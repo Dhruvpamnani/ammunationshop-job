@@ -28,4 +28,4 @@ QBShared.Jobs = {
 ```
 
    # qb-bossmenu/config.lua
-    ```    ['gunshop'] = vector3(840.02, -1032.71, 28.19)```
+    ```    ['gunshop'] = vector3(840.02, -1032.71, 28.19) ```
