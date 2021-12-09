@@ -1,5 +1,7 @@
 # qb-gunjob
 
+# محل اسلاحه مع وظيفه خاصه وراتب و متجر و خزنه و زباله خاصه بل اسلاحه و بوس مينو لصاحب المتجر 
+
 # https://github.com/zf-development/zf_context_qb menu i use in the export
 
 
