@@ -56,7 +56,7 @@ AddEventHandler('shopgun:menu', function ()
                     }
                 },
             }
-            exports['zf_context']:openMenu(myMenu)
+            exports['zf_context_qb']:openMenu(myMenu)
 end)
 
 ----------------------------------------------------
@@ -161,7 +161,7 @@ RegisterNetEvent('shop:cars', function()
             }
         },
     }
-    exports['zf_context']:openMenu(myMenu)
+    exports['zf_context_qb']:openMenu(myMenu)
     end)
     
     
