@@ -1,7 +1,7 @@
 # qb-gunjob
 
-# محل اسلاحه مع وظيفه خاصه وراتب و متجر و خزنه و زباله خاصه بل اسلاحه و بوس مينو لصاحب المتجر 
-
+#A weapons store with a special job, a salary, a store, a safe, a special junk, even weapons, and a boss menu for the shop owner.
+ 
 # https://github.com/zf-development/zf_context_qb menu i use in the export
 
 
